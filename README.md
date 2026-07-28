@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amin Moradzadeh 👋
 
-<!--
-**amynmradzadh2-ai/amynmradzadh2-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Junior Python/Django Developer
+- 🌱 Currently learning Django and Backend Development
+- 🗄️ Interested in Databases, Linux, and Cybersecurity
+- 🚀 Building real-world web applications
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Django
+- SQL
+- SQLite
+- HTML
+- CSS
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goal
+Become a professional Backend Developer and build scalable web applications.
