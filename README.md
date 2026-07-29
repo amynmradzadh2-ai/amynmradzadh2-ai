@@ -1,4 +1,4 @@
-# Hi, I'm Amin Moradzadeh 👋
+# Hi, I'm Amin 👋
 
 ## About Me
 - 💻 Junior Python/Django Developer
