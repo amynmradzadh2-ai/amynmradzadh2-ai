@@ -15,6 +15,10 @@
 - CSS
 - Git
 - GitHub
+- numpy
+- pandas
+- matplotlib
+- machinlearning
 
 ## Current Goal
 Become a professional Backend Developer and build scalable web applications.
