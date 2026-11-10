@@ -18,7 +18,7 @@
 - numpy
 - pandas
 - matplotlib
-- machinlearning
+- machinelearning
 
 ## Current Goal
 Become a professional Backend Developer and build scalable web applications.
